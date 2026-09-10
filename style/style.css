@@ -5,26 +5,62 @@ header {
     color: rgb(255, 255, 255);
     padding: 20px 0;
 }
+
 header h1 {
     text-align: center;
     margin-bottom: 20px;
 }
+
 nav {
     display: flex;
     justify-content: center;
     gap: 25px;
 }
+
+
 nav a {
     color: rgb(90, 35, 69);
     text-decoration: none;
     font-weight: bold;
 }
+
 nav a:hover {
     text-decoration: underline;
 }
+
 footer {
     background-color: #975b85;
     color: aliceblue;
     text-align: center;
     padding: 20px;
+}
+
+main {
+    min-height: 70vh;
+    padding: 40px;
+}
+
+section{
+    background-color: #975b8577;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 15px;
+    color: #4b0561;
+}
+
+.image-placeholder {
+    height: 220px;
+    border: 2px dashed #975b85;
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: rgb(109, 18, 145);
+    margin-top: 20px;
 }
