@@ -1,3 +1,10 @@
+/* Body */
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /* Header */
 
 header {
@@ -48,6 +55,7 @@ section{
 }
 
 h2 {
+    padding-bottom: 25px;
     margin-bottom: 15px;
     color: #4b0561;
 }
@@ -65,19 +73,22 @@ h2 {
     margin-top: 20px;
 }
 .imagem-dois {
-    height: 220px;
-    border: 2px dashed #975b85;
-    border-radius: 8px;
+    border-radius: 12px;
+    width: 220px;  
+    max-width: 220px;
+    height: 220px; 
+    
 
-    /* Caminho corrigido para a sua estrutura de pastas */
-    background-image: url('../images/kawaiii.jpg');
+    background-image: url('../images/discord_icon.jpg');
     background-size: cover;      
-    background-position: center;  
-    background-repeat: no-repeat; 
+    background-position: center; 
+    background-repeat: no-repeat;
+
+    border: none; 
+    box-shadow: 6px 8px 16px rgba(59, 4, 43, 0.911);
 
     display: flex;
     justify-content: center;
     align-items: center;
     color: rgb(109, 18, 145);
-    margin-top: 20px;
 }
