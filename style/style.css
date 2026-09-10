@@ -64,3 +64,20 @@ h2 {
     color: rgb(109, 18, 145);
     margin-top: 20px;
 }
+.imagem-dois {
+    height: 220px;
+    border: 2px dashed #975b85;
+    border-radius: 8px;
+
+    /* Caminho corrigido para a sua estrutura de pastas */
+    background-image: url('../images/kawaiii.jpg');
+    background-size: cover;      
+    background-position: center;  
+    background-repeat: no-repeat; 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(109, 18, 145);
+    margin-top: 20px;
+}
