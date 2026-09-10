@@ -1,0 +1,30 @@
+/* Header */
+
+header {
+    background-color: #975b85;
+    color: rgb(255, 255, 255);
+    padding: 20px 0;
+}
+header h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+nav a {
+    color: rgb(90, 35, 69);
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: #975b85;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
