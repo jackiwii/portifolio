@@ -76,18 +76,45 @@ h2 {
     width: 220px;  
     max-width: 220px;
     height: 220px; 
-    
 
     background-image: url('../images/discord_icon.jpg');
     background-size: cover;      
     background-position: center; 
     background-repeat: no-repeat;
 
-    border: none; 
-    box-shadow: 6px 8px 16px rgba(59, 4, 43, 0.911);
+    box-shadow: 6px 9px 16px rgba(59, 4, 43, 0.911);
 
     display: flex;
     justify-content: center;
     align-items: center;
     color: rgb(109, 18, 145);
 }
+.button-layout{
+    padding: 6px 15px;
+    background-color: #975b85;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.button-layout:focus{
+    background-color: #3d1a33c4;
+}
+.button-layout:hover{
+    color: #4b0561;
+}
+.input-layout{
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #d39fc32f;
+    border-radius: 6px;
+    font-size: 16px;
+    outline: none;
+
+}
+.input-layout:hover{
+    background-color: #cf8cbc;
+}
+
+
