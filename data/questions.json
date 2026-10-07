@@ -1,0 +1,99 @@
+{
+    "Kian":{
+        "1": {
+            "Pergunta": "De onde vem o nome Kian?",
+            "Respostas": {
+                "A": "Attack on Titans",
+                "B": "League of Legends",
+                "C": "Paranormal Order",
+                "D": "Ajudante da Xuxa"
+            },
+            "Certas": "C"
+        },
+        "2":{
+            "Pergunta": "Qual eh uma verdade sobre ele?",
+            "Respostas": {
+                "A": "Ele não tem dente de vampiro",
+                "B": "Ele gosta de carinho na bunda",
+                "C": "Ele eh inteiro preto",
+                "D": "O rabinho dele eh quebradinho"
+            },
+            "Certas": "D"
+        },
+        "3":{
+            "Pergunta": "Ele tem quantos aninhos?",
+            "Respostas": {
+                "A": "5",
+                "B": "3",
+                "C": "10",
+                "D": "7"
+            },
+            "Certas": "A"
+        }
+    },
+
+    "Banana":{
+        "1": {
+            "Pergunta": "De onde vem a banana?",
+            "Respostas": {
+                "A": "india",
+                "B": "madagascar",
+                "C": "do pe de banana",
+                "D": "de deus"
+            },
+            "Certas": "A"
+        },
+        "2":{
+            "Pergunta": "Quantas bananas existem?",
+            "Respostas": {
+                "A": "10",
+                "B": "mais q 10",
+                "C": "pergunta pro DK",
+                "D": "Sem ideia"
+            },
+            "Certas": "C"
+        },
+        "3":{
+            "Pergunta": "Qual o maior problema da banana?",
+            "Respostas": {
+                "A": "ela acaba",
+                "B": "a casca",
+                "C": "a banananeira",
+                "D": "Nada"
+            },
+            "Certas": "D"
+        }
+    },
+    "Hoku":{
+        "1": {
+            "Pergunta": "De onde o hoku vem?",
+            "Respostas": {
+                "A": "Da Coréia",
+                "B": "Do Japao",
+                "C": "Da casa dele",
+                "D": "Da Espanha"
+            },
+            "Certas": "C"
+        },
+        "2":{
+            "Pergunta": "O que ele está cursando?",
+            "Respostas": {
+                "A": "T.I.",
+                "B": "ADM",
+                "C": "ISC2 CC",
+                "D": "Sem ideia"
+            },
+            "Certas": "C"
+        },
+        "3":{
+            "Pergunta": "O que ele mais ama no mundo?",
+            "Respostas": {
+                "A": "O Jack óbvio",
+                "B": "Um lolzinho de cria",
+                "C": "Comer danone",
+                "D": "Nada"
+            },
+            "Certas": "A"
+        }
+    }
+}
